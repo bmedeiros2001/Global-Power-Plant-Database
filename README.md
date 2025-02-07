@@ -61,14 +61,12 @@ The global energy sector is undergoing a significant transformation: increasing 
 
 Breakdown of CO₂ emissions per fuel type.
 
-**Insights:**
 - Petcoke and Coal remain the largest contributors to emissions.
 - Overall decrease in emissions throughout the years.
 
 <img width="707" alt="Image" src="https://github.com/user-attachments/assets/60ae47c2-12c5-4fef-8e1f-049786a9f101" />
 Breakdown of CO₂ emissions of renewable vs. non-renewables.
 
-**Insights:**
 - Stark contrast between renewable and non-renewable CO2 emissions.
 - Decrease between non-renewables from 2016-2018 but sharp increase in 2019.
 
@@ -76,11 +74,27 @@ Breakdown of CO₂ emissions of renewable vs. non-renewables.
 
 <img width="873" alt="image" src="https://github.com/user-attachments/assets/5697492f-46c9-4659-87c2-dd5fbb594909" />
 
-**Top Employment Trends:**
 - **Gas** consistently employs **2-3 times more** workers than other fuel types.
 - **Oil, coal,** and **petcoke** have seen an **18.15% decline** in employees over the past 6 years.
 - **Employment **in** all renewable energy fuel types** has remained **stagnant** over the same period.
 
 ### Report Query 4: Economic Impact for Non-Renewable Energy - Gender Gap
 
+<img width="951" alt="Image" src="https://github.com/user-attachments/assets/8c355d63-9728-4b4a-9bee-317f5acd13c6" />
 
+- **Significant gender gap**, with men dominating the field, hinting at systemic issues in recruiting or retaining female employees.
+- In **coal, oil, and petcoke sectors**, female employment is **below 21%**, indicating significant gender disparity.
+- Near-equal distribution in the aggregate of all power plants.
+
+---
+
+## Lessons Learned
+
+- Women are still under represented in employment
+- Providing Context: Paris Agreement (Treaty) 2016: United States and China main contributors. 
+United States joined in 2016, exited 2017-2020 and rejoined in 2021 (might withdraw in 2025). State-level initiatives also may impact USA's contribution. 
+China is an emerging leader during United States’s shifting positions 
+Hydro is still most popular within renewable energy sources for efficiency and cost.
+Gas remains dominant in the employment sector, highlighting its continued importance in the energy mix.
+Employment data suggests that there has not been an increase in the number of plants generating renewable energy.
+Stagnation in renewables emphasizes the importance of innovation and strategic investment to drive growth.
