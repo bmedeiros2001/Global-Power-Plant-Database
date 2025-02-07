@@ -25,11 +25,6 @@ Each record contains:
 ## Executive Summary
 The global energy sector is undergoing a significant transformation: increasing focus on renewable energy sources and sustainable practices. 
 
-**Key challenges:**
-- Uneven adoption of renewables across regions
-- Compliance with emission standards
-- Economic impact on economies.
-
 **Goal:** To provide data-driven insights that support renewable energy investment, emission compliance, and economic impact analysis for informed decision-making by energy stakeholders.
 
 ## Business-Use Cases
