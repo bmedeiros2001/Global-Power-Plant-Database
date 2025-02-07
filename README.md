@@ -44,3 +44,17 @@ The global energy sector is undergoing a significant transformation: increasing 
 ---
 
 ## Visualization
+
+### Report Query 1: Identifying Renewable Energy Hotspots
+
+<img width="907" alt="Image" src="https://github.com/user-attachments/assets/751679d4-215f-4101-a56b-b39cda2b94d8" />
+
+**Top 3 Hotspot Countries per Energy Source:**
+
+- Hydro: China, Venezuela and Brazil 
+- Solar: China, India, and United States 
+- Wind: China, United Kingdom and United States
+
+
+
+
