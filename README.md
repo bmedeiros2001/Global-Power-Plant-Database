@@ -91,10 +91,10 @@ Breakdown of CO₂ emissions of renewable vs. non-renewables.
 ## Lessons Learned
 
 - Women are still under represented in employment
-- Providing Context: Paris Agreement (Treaty) 2016: United States and China main contributors. 
-United States joined in 2016, exited 2017-2020 and rejoined in 2021 (might withdraw in 2025). State-level initiatives also may impact USA's contribution. 
-China is an emerging leader during United States’s shifting positions 
-Hydro is still most popular within renewable energy sources for efficiency and cost.
-Gas remains dominant in the employment sector, highlighting its continued importance in the energy mix.
-Employment data suggests that there has not been an increase in the number of plants generating renewable energy.
-Stagnation in renewables emphasizes the importance of innovation and strategic investment to drive growth.
+- Providing Context: Paris Agreement (Treaty) 2016: United States and China main contributors.
+-   United States joined in 2016, exited 2017-2020 and rejoined in 2021 (might withdraw in 2025). State-level initiatives also may impact USA's contribution.
+-   China is an emerging leader during United States’s shifting positions 
+- Hydro is still most popular within renewable energy sources for efficiency and cost.
+- Gas remains dominant in the employment sector, highlighting its continued importance in the energy mix.
+- Employment data suggests that there has not been an increase in the number of plants generating renewable energy.
+- Stagnation in renewables emphasizes the importance of innovation and strategic investment to drive growth.
