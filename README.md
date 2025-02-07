@@ -55,6 +55,17 @@ The global energy sector is undergoing a significant transformation: increasing 
 - Solar: China, India, and United States 
 - Wind: China, United Kingdom and United States
 
+### Report Query 2: Emissions Compliance Monitoring
 
+<img width="825" alt="Image" src="https://github.com/user-attachments/assets/c3ed9b49-d6c2-47cb-bf9f-cf95b2ae49cd" />
+
+Breakdown of CO₂ emissions per fuel type.
+
+**Insights:**
+
+- Petcoke and Coal remain the largest contributors to emissions.
+- Overall decrease in emissions throughout the years.
+
+- 
 
 
