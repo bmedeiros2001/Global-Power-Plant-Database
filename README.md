@@ -33,43 +33,27 @@ The global energy sector is undergoing a significant transformation: increasing 
 **Goal:** To provide data-driven insights that support renewable energy investment, emission compliance, and economic impact analysis for informed decision-making by energy stakeholders.
 
 ## Business-Use Cases
-**Identify regions leading in adding renewable energy sources over the past few years**
-- Goal: Help policymakers identify thriving regions to replicate successful strategies in other areas and allocate resources more effectively.
+**Identify regions leading in adding renewable energy sources over the past few years.** Goal: Help policymakers identify thriving regions to replicate successful strategies in other areas and allocate resources more effectively.
 
-**Identify CO₂ emissions for each energy fuel type**
-- Goal: Identify energy fuel types that contribute the most to CO₂ emissions to strategize on transitioning to cleaner, low-emission alternatives.
+**Identify CO₂ emissions for each energy fuel type.** Goal: Identify energy fuel types that contribute the most to CO₂ emissions to strategize on transitioning to cleaner, low-emission alternatives.
 
-**Analyze the economic contribution of power plants by fuel type in terms of employment.**
-- Goal: Identify the fuel types generating the most employment
+**Analyze the economic contribution of power plants by fuel type in terms of employment.** Goal: Identify the fuel types generating the most employment
 
+## Normalization:
 
-## Extract, Transform and Load (ETL)
-#### Extract:
+- Data was initially in First Normal Form (1NF) :
+-   Ensured atomic values
+-   Ensure no repeating groups
 
-**Primary Dataset:**
-- Global Power Plant Database
-
-**Secondary Datasets:**
-- Employment data: US Bureau Labor Statistics
-- CO2 Emissions data: Fifth Assessment Report - IPCC
-
-#### Normalization:
-
-**Step 1:** Data was initially in First Normal Form (1NF) :
-- Ensured atomic values
-- Ensure no repeating groups
-
-**Step 2:** Transformation to Second Normal Form (2NF) :
-- Removal of partial functional dependencies
+- Transformation to Second Normal Form (2NF) :
+-   Removal of partial functional dependencies
   
-**Step 3:** Transformation to Third Normal Form (3NF) :
-- Removal of transitive functional dependencies
+- Transformation to Third Normal Form (3NF) :
+-   Removal of transitive functional dependencies
 
 <img width="512" alt="Image" src="https://github.com/user-attachments/assets/d6c72d97-03a9-4340-9c02-7f95cf18cf7c" />
 
-#### Transformation
-- Data was uploaded and processed in MySQL Workbench
-
 ## EER Diagram
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/2759b897-81dc-459b-9ee3-f5edf8e80a63" />
 
 
