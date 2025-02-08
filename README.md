@@ -16,7 +16,7 @@ Each record contains:
 - **> 90% of plants in the US** reported energy generation data.
 - **< 50% of plants for other countries** reported their energy generation data
 
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/a4fc80df-8c24-4343-aeac-f762efca8d6a" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/a4fc80df-8c24-4343-aeac-f762efca8d6a" />
 
 ---
 
@@ -39,10 +39,10 @@ The global energy sector is undergoing a significant transformation: increasing 
 - 2NF
 - 3NF
 
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/d6c72d97-03a9-4340-9c02-7f95cf18cf7c" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/d6c72d97-03a9-4340-9c02-7f95cf18cf7c" />
 
 ## EER Diagram
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/2759b897-81dc-459b-9ee3-f5edf8e80a63" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/2759b897-81dc-459b-9ee3-f5edf8e80a63" />
 
 ---
 
@@ -69,7 +69,7 @@ WHERE
 ORDER BY
   p.capacity_mw DESC;
 ```
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/751679d4-215f-4101-a56b-b39cda2b94d8" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/751679d4-215f-4101-a56b-b39cda2b94d8" />
 
 **Top 3 Hotspot Countries per Energy Source:**
 
@@ -99,7 +99,7 @@ WHERE
 ORDER BY
     emmissions DESC;
 ```
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/c3ed9b49-d6c2-47cb-bf9f-cf95b2ae49cd" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/c3ed9b49-d6c2-47cb-bf9f-cf95b2ae49cd" />
 
 - Petcoke and Coal remain the largest contributors to emissions.
 - Overall decrease in emissions throughout the years.
@@ -128,7 +128,7 @@ ORDER BY
     year DESC;
 ```
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/5697492f-46c9-4659-87c2-dd5fbb594909" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/5697492f-46c9-4659-87c2-dd5fbb594909" />
 
 - **Gas** consistently employs **2-3 times more** workers than other fuel types.
 - **Oil, coal,** and **petcoke** have seen an **18.15% decline** in employees over the past 6 years.
@@ -154,7 +154,7 @@ ORDER BY
     total_women_by_fuel_type DESC;
 ```
 
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/8c355d63-9728-4b4a-9bee-317f5acd13c6" />
+<img width="750" alt="Image" src="https://github.com/user-attachments/assets/8c355d63-9728-4b4a-9bee-317f5acd13c6" />
 
 - **Significant gender gap**, with men dominating the field, hinting at systemic issues in recruiting or retaining female employees.
 - In **coal, oil, and petcoke sectors**, female employment is **below 21%**, indicating significant gender disparity.
