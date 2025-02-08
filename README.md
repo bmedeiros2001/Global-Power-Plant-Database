@@ -13,8 +13,8 @@ Each record contains:
 -   ownership
 
 **Data Quality**
-- **> 90% of plants in the US** reported energy generation data.
-- **< 50% of plants for other countries** reported their energy generation data
+
+A significant disparity exists in global energy reporting standards. While **over 90% of U.S. power plants report energy generation data**, this figure drops to **less than 50%** in many other countries. This inconsistency limits the accuracy of cross-country comparisons and hinders effective global energy policy-making. Improving data transparency and standardizing reporting practices are crucial for more reliable insights into worldwide electricity generation and emissions. As a result, only U.S.A. data was analyzed.
 
 <img width="750" alt="Image" src="https://github.com/user-attachments/assets/a4fc80df-8c24-4343-aeac-f762efca8d6a" />
 
