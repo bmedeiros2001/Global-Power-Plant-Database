@@ -69,7 +69,7 @@ WHERE
 ORDER BY
   p.capacity_mw DESC;
 ```
-<img width="750" alt="Image" src="https://github.com/user-attachments/assets/751679d4-215f-4101-a56b-b39cda2b94d8" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/751679d4-215f-4101-a56b-b39cda2b94d8" />
 
 **Top 3 Hotspot Countries per Energy Source:**
 
@@ -99,10 +99,12 @@ WHERE
 ORDER BY
     emmissions DESC;
 ```
-<img width="750" alt="Image" src="https://github.com/user-attachments/assets/c3ed9b49-d6c2-47cb-bf9f-cf95b2ae49cd" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/c3ed9b49-d6c2-47cb-bf9f-cf95b2ae49cd" /> 
 
 - Petcoke and Coal remain the largest contributors to emissions.
 - Overall decrease in emissions throughout the years.
+
+$~$
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/60ae47c2-12c5-4fef-8e1f-049786a9f101" />
 
@@ -128,7 +130,7 @@ ORDER BY
     year DESC;
 ```
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/5697492f-46c9-4659-87c2-dd5fbb594909" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/5697492f-46c9-4659-87c2-dd5fbb594909" />
 
 - **Gas** consistently employs **2-3 times more** workers than other fuel types.
 - **Oil, coal,** and **petcoke** have seen an **18.15% decline** in employees over the past 6 years.
@@ -154,7 +156,7 @@ ORDER BY
     total_women_by_fuel_type DESC;
 ```
 
-<img width="750" alt="Image" src="https://github.com/user-attachments/assets/8c355d63-9728-4b4a-9bee-317f5acd13c6" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/8c355d63-9728-4b4a-9bee-317f5acd13c6" />
 
 - **Significant gender gap**, with men dominating the field, hinting at systemic issues in recruiting or retaining female employees.
 - In **coal, oil, and petcoke sectors**, female employment is **below 21%**, indicating significant gender disparity.
