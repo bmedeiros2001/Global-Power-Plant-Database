@@ -1,15 +1,33 @@
 # Global-Power-Plant-Database
 
-## Data Overview
-- **34,937 records** of **164 countries**.
--   **72%** of the world’s electricity generation capacity
+## Summary of Project
 
-Each record contains:
-- **Power plant details** (2013 to 2019):
+The global energy sector is undergoing a significant transformation: increasing focus on renewable energy sources and sustainable practices. The goal of this project was to provide data-driven insights that support renewable energy investment, emission compliance, and economic impact analysis for informed decision-making by energy stakeholders.
+
+**Potential Business-Use Cases**
+- Identify regions leading in adding renewable energy sources over the past few years to get policymakers to replicate successful strategies in other areas and allocate resources more effectively.
+
+- Identify fuel types with the highest CO₂ emissions to strategize on transitioning to cleaner, low-emission alternatives.
+
+- Analyze the economic contribution of power plants by fuel type in terms of employment
+
+**Steps:**
+
+This project required the incorporation of a few different datasets. We performed data manipulation and cleaning processes, as well as normalization. Then, EDA was performed.
+
+---
+
+## Data Overview
+
+**Main Dataset: ["Global Power Plant"](https://datasets.wri.org/datasets/global-power-plant-database?map=eyJ2aWV3U3RhdGUiOnsibG9uZ2l0dWRlIjowLjIxMDY0NTUxODQ3ODI1ODk2LCJsYXRpdHVkZSI6NS42ODQzNDE4ODYwODA4MDJlLTE0LCJ6b29tIjowLjY0Mzg1NjE2OTMxNjczMzgsInBpdGNoIjowLCJiZWFyaW5nIjowLCJwYWRkaW5nIjp7InRvcCI6MCwiYm90dG9tIjowLCJsZWZ0IjowLCJyaWdodCI6MH19LCJiYXNlbWFwIjoibGlnaHQiLCJib3VuZGFyaWVzIjpmYWxzZSwibGFiZWxzIjoiZGFyayIsImFjdGl2ZUxheWVyR3JvdXBzIjpbeyJkYXRhc2V0SWQiOiI1MzYyM2RmZC0zZGY2LTRmMTUtYTA5MS02NzQ1N2NkYjU3MWYiLCJsYXllcnMiOlsiMmE2OTQyODktZmVjOS00YmZlLWE2ZDItNTZjMzg2NGVjMzQ5Il19XSwiYm91bmRzIjp7ImJib3giOm51bGwsIm9wdGlvbnMiOnt9fSwibGF5ZXJzUGFyc2VkIjpbWyIyYTY5NDI4OS1mZWM5LTRiZmUtYTZkMi01NmMzODY0ZWMzNDkiLHsidmlzaWJpbGl0eSI6dHJ1ZSwiYWN0aXZlIjp0cnVlLCJvcGFjaXR5IjoxLCJ6SW5kZXgiOjExfV1dfQ%3D%3D)**
+- 34,937 records of 164 countries.
+- 72% of the world’s electricity generation capacity
+
+Each record contains deatails of US and international power plant (including energy generation data from 2013 to 2019). More specifically, it contained the following information:
 -   geolocations
 -   energy source
 -   plant capacity
--   yearly actual and estimated energy generation
+-   yearly actual (2013 to 2019) and estimated energy generation (2013 to 2017)
 -   ownership
 
 **Data Quality**
@@ -18,19 +36,9 @@ A significant disparity exists in global energy reporting standards. While **ove
 
 <img width="750" alt="Image" src="https://github.com/user-attachments/assets/a4fc80df-8c24-4343-aeac-f762efca8d6a" />
 
----
-
-## Executive Summary
-The global energy sector is undergoing a significant transformation: increasing focus on renewable energy sources and sustainable practices. 
-
-**Goal:** To provide data-driven insights that support renewable energy investment, emission compliance, and economic impact analysis for informed decision-making by energy stakeholders.
-
-## Business-Use Cases
-- **Identify regions leading in adding renewable energy sources over the past few years** to get policymakers to replicate successful strategies in other areas and allocate resources more effectively.
-
-- **Identify fuel types with the highest CO₂ emissions** to strategize on transitioning to cleaner, low-emission alternatives.
-
-- **Analyze the economic contribution of power plants by fuel type in terms of employment:**
+**Secondary Datasets:**
+- ["Employment"](https://data.bls.gov/PDQWeb/ce)
+- ["CO2 Emission per Fuel Type"](https://www.epa.gov/climateleadership/ghg-emission-factors-hub)
 
 ---
 
