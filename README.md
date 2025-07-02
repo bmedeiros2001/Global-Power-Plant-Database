@@ -23,7 +23,7 @@ This project required the incorporation of a few different datasets. We performe
 - 34,937 records of 164 countries.
 - 72% of the world’s electricity generation capacity
 
-Each record contains deatails of US and international power plant (including energy generation data from 2013 to 2019). More specifically, it contained the following information:
+Each record contains details of US and international power plants (including energy generation data from 2013 to 2019). More specifically, it contained the following information:
 -   geolocations
 -   energy source
 -   plant capacity
